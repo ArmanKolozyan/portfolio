@@ -47,8 +47,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: This is a demo of the `aafu` theme. It has `light` and `dark` theme.
-  experience:
+    description: I am a Computer Science Master's student from Belgium, studying at the [Vrije Universiteit Brussel](https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/applied-sciences-and-engineering-computer-science/program/master/master-software-languages-and-software-engineering). My research interests are in security, specifically in vulnerability analysis of network protocols and Zero-Knowledge Proofs (ZKPs). Currently, I am working on my master's thesis at [Nokia Bell Labs](https://www.bell-labs.com/about/locations/antwerp-belgium), where I am investigating bugs in ZKP programs. Previously, I completed a research internship at [KU Leuven’s COSIC group](https://www.esat.kuleuven.be/cosic/), focusing on the security of the Matter standard for smart home devices.
     title: Experiences
     icon: fas fa-briefcase
     list:
