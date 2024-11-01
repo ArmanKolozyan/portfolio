@@ -48,38 +48,154 @@ params:
     title: About Me
     icon: fas fa-user
     description: I am a Computer Science Master's student from Belgium, studying at the [Vrije Universiteit Brussel](https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/applied-sciences-and-engineering-computer-science/program/master/master-software-languages-and-software-engineering). My research interests are in security, specifically in vulnerability analysis of network protocols and Zero-Knowledge Proofs (ZKPs). Currently, I am working on my master's thesis at [Nokia Bell Labs](https://www.bell-labs.com/about/locations/antwerp-belgium), where I am investigating bugs in ZKP programs. Previously, I completed a research internship at [KU Leuven’s COSIC group](https://www.esat.kuleuven.be/cosic/), focusing on the security of the Matter standard for smart home devices.
+  experience:  
     title: Experiences
     icon: fas fa-briefcase
     list:
-      - position: Job Title
-        dates: 2019 - *Present*
-        company: Company Name
+      - position: Security Research Intern
+        dates: September 2024 - Present
+        company: Nokia Bell Labs, Antwerpen
         details: |1-
-          - Printed from desktop. Sent [emails](#).
-              - Called people *using* telephone.
-          - Drank water from office cooler.
-          - Ate donuts on people's birthdays.
-      - position: Job Title
-        dates: 2018 - 2019
-        url: "#"
-        company: Company Name
+          - Conducting research focused on the security analysis of Zero-Knowledge Proofs (ZKPs).
+          - The goal is to identify vulnerabilities in ZKP programs, categorize them, and create a tool to detect
+            those bugs.
+          - The thesis ultimately seeks to enhance the security of ZKP implementations and provide insights for
+            developers in this field.
+
+      - position: Security Research Intern
+        dates: July 2024 - September 2024
+        company: COSIC (KU Leuven), Leuven
+        details: |1-
+          - COSIC is a leading research institution in cryptography and software/hardware security.
+          - Conducted an in-depth security analysis of the Matter standard for smart home communication, with
+            the aim of identifying potential security weaknesses and vulnerabilities.
+          - Performed formal verification of Matter’s protocols using automated tools, which involved modeling
+            and verifying the protocols to uncover flaws.
+          - Worked under the guidance of Dave Singelée, Sayon Duttagupta, Georgio Nicolas and Professor Bart
+            Preneel, whose combined expertise was instrumental to the project.
+          - This experience strengthened my skills in protocol security analysis and formal verification, and
+            expanded my understanding of security challenges within the IoT field.
+
+      - position: Summer School Participant
+        dates: September 2024
+        company: Technische Universität Darmstadt, Germany
+        details: |1-
+          - Attended the ACM Europe Summer School on Distributed and Replicated Environments (DARE) 2024 in
+            Darmstadt, Germany, focused on advanced topics in distributed systems.
+          - It offered me both theoretical and practical knowledge, with lectures focusing on consistency models,
+            verification techniques, and programming models for distributed applications.
+          - Participated in hands-on sessions and worked on a small research project, deepening my understanding
+            of current challenges and solutions in distributed systems.
+
+      - position: Programming lecturer 
+        dates: November 2021 - November 2024
+        company: Vrije Universiteit Brussel
+        details: |1-
+          - Lecturer for additional programming classes (in the programming language Scheme), organized for first
+            year Computer Science students at my university. I was allowed to teach these exercise sessions
+            together with a few other fellow students.
+          - I always prepared slides to help the students refresh the necessary theory. Then we solved exercises in
+            preparation for the exam.
+          - During the coronavirus period, I gave a session online and an on-campus session every other week. 
+          - If the session went online, I had the students share their code via a code-sharing website where I
+            provided comments to help them make progress.
+
+      - position: Lecturer of Mathematics 
+        dates: September 2023
+        company: Vrije Universiteit Brussel
+        details: |1-
+          - I taught the following topics of mathematics for both mathematics and non-mathematics background
+            students: Plane Geometry, Analysis, Functions, Trigonometry.
+          - This was my first experience teaching a class of more than 40 students.
+
+      - position: Lecturer of preparation/bridge course in Mathematics 
+        dates: September 2022
+        company: Vrije Universiteit Brussel
+        details: |1-
+          - I taught the following topics of mathematics for both mathematics and non-mathematics background
+            students: Linear Algebra, Plane Geometry, Three Dimensional Geometry.
+          - This was my first experience teaching a class of more than 30 students.
+
+      - position: Webmaster 
+        dates: April 2022 - September 2022
+        company: Vrije Universiteit Brussel
+        details: |1-
+          - Helping with the development of the new website of the Vrije Universiteit Brussel (VUB).
+            Regularly making small adjustments to the site, creating new events, etc.
+          - Following up a ticketing system and resolving tickets from VUB staff and external people.
+
+      - position: Integration of Usolv-it exercises into the Canvas learning platform 
+        dates: July 2022
+        company: Vrije Universiteit Brussel
+        details: |1-
+          - Writing mathematics problems in LaTeX format.
+          - Managing mathematics assignments in Usolv-it.
+          - Converting Usolv-it assignments into tests and then migrating these to the Canvas learning platform.
+
+      - position: Organization of pretests in mathematics, chemistry and physics 
+        dates: September 2021
+        company: Vrije Universiteit Brussel
+        details: |1-
+          - Correcting pre-tests (which test the prior knowledge of first-year university students).
+          - Supervising when the students take their tests.
+
+      - position: Assistant of preparation/bridge course in Mathematics 
+        dates: August 2021 - September 2021
+        company: Vrije Universiteit Brussel
+        details: |1-
+          - Organizing live question sessions.
+          - Answering students' questions on discussion fora.
+          - Correcting tests.
+          - Updating the solutions of exercises on the website of the mathematics book 'Wiskundige
+            basisvaardigheden' (basiswiskunde.be).
+
+      - position: API Inventarisation 
+        dates: August 2022
+        company: Argenta, Antwerpen
+        details: |1-
+          - Argenta is a Belgian bank and insurance group offering financial services in Belgium, the Netherlands,
+            and Luxembourg.
+          - Spent a month in Argenta’s IT Shared Service Integration department, assisting with the
+            identification of available APIs.
+          - Created a comprehensive list of technical and functional descriptions of APIs and researched optimal
+            tools for inventory setup and maintenance.
+          - Worked three days per week at the headquarters in Antwerp and two days from home, with weekly
+            follow-ups.
+          - This role brought me a first business experience in IT, improved my skills in conveying information
+            smoothly and correctly, enhanced my ability to ask targeted questions to colleagues, and introduced
+            me to agile/scrum methodologies.
+
+      - position: Logistics and Outlet employee 
+        dates: July 2020 - September 2020
+        company: ZEB, Merchtem
+        details: |1-
+          - RFID, Sorter, Optical Scanning.
+
+      - position: Cleaner 
+        dates: July 2019 - August 2019
+        company: Jette Clean
+
+      - position: Helpdesk 
+        dates: March 2019
+        company: FAMIFED, Brussel
+        details: |1-
+          - Assisting Famiris (federal child benefits agency) staff with technical problems.
   education:
     title: Education
     icon: fas fa-graduation-cap
     list:
-      - degree: Ph.D. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: M.S. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: B.S. in Subject
-        college: University of State-City
-        dates: 2004 - 2009
+      - degree: Master's degree in Software Engineering
+        college: Vrije Universiteit Brussel
+        dates: 2023 - 2025
+        distinction: Greatest Distinction (summa cum laude)
+      - degree: Bachelor’s degree in Computer Science
+        college: Vrije Universiteit Brussel
+        dates: 2020 - 2023
+        distinction: Greatest Distinction (summa cum laude)
+      - degree: Science-Mathematics (8 hours of math per week)
+        college: GO! Atheneum Emanuel Hiel
+        dates: 2014 - 2020
+        distinction: Greatest Distinction (summa cum laude)
   publication:
     title: Publications
     icon: fas fa-book

@@ -4,6 +4,9 @@
 <p {{ if .thesis_title }}class="mb-0" {{ end }}>
   {{- .dates }} &middot; {{ .college -}}
 </p>
+{{ if .distinction }}
+<p><strong>Distinction:</strong> {{ .distinction }}</p>
+{{ end }}
 {{ if .thesis_title }}
 {{ if .thesis_url }}
 <p>
