@@ -1,0 +1,16 @@
+<section id="favorite-quotes">
+  <p>{{ .Site.Params.favorite_quotes.intro }}</p>
+  <ul style="list-style: none; padding: 0;">
+    {{ range .Site.Params.favorite_quotes.list }}
+      <li style="margin-bottom: 1.5em;">
+        {{ if .source }}
+          <a href="{{ .source | safeURL }}" target="_blank" style="text-decoration: none;">
+            <p><em>{{ .quote }}</em></p>
+          </a>
+        {{ else }}
+          <p><em>{{ .quote }}</em></p>
+        {{ end }}
+      </li>
+    {{ end }}
+  </ul>
+</section>

@@ -46,6 +46,7 @@ params:
     - item: publication
     - item: honors
     - item: volunteering
+    - item: favorite_quotes
   aboutme:
     title: About Me
     icon: fas fa-user
@@ -240,7 +241,7 @@ params:
           details: |1-
             Competition in which challenging mathematics questions must be solved by fifth and sixth year
               secondary students.
-              
+
   volunteering:
       title: Volunteering
       icon: fas fa-hands-helping
@@ -294,3 +295,50 @@ params:
             - Room Support: Assisting presenters in the conference room and troubleshooting technical issues,
               passing the microphone for questions, etc.
             - Outside Support: helping in the main hall at the registration desk, setting up coffee breaks, etc.
+  favorite_quotes:
+    title: Favorite Motivational Quotes
+    icon: fas fa-quote-left
+    intro: |
+      Below is a collection of my favorite motivational quotes (well... some might be more inspirational than others). I have included links for more information about the authors, though for a few lesser-known ones, I simply referenced where I first encountered them.
+    list:
+      - quote: "Fate loves the fearless."
+        source: "https://www.goodreads.com/quotes/14333-fate-loves-the-fearless#:~:text=Quote%20by%20James%20Russell%20Lowell%3A%20%E2%80%9CFate%20loves%20the%20fearless.%E2%80%9D"
+
+      - quote: "Destiny doesn't make mistakes."
+        source: "https://www.brainyquote.com/quotes/dustin_poirier_1083373"
+
+      - quote: "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."
+        source: "https://www.goodreads.com/quotes/536961-the-reasonable-man-adapts-himself-to-the-world-the-unreasonable"
+
+      - quote: "I saw the angel in the marble and carved until I set him free."
+        source: "https://www.goodreads.com/quotes/1161553-i-saw-the-angel-in-the-marble-and-carved-until"
+
+      - quote: "It’s tough to get out of bed to do roadwork at 5 am when you’ve been sleeping in silk pajamas."
+        source: "https://quotefancy.com/quote/1220835/Marvin-Hagler-It-s-tough-to-get-out-of-bed-to-do-roadwork-at-5-am-when-you-ve-been"
+
+      - quote: "I’ll be fine once I get it. I’ll be good."
+        source: "https://genius.com/550139"
+
+      - quote: "Destiny doesn't do home visits."
+        source: "https://www.goodreads.com/quotes/768202-destiny-doesn-t-do-home-visits-you-have-to-go-for"
+
+      - quote: "If it’s meant for me, it won’t miss me."
+        source: "https://www.instagram.com/dustinpoirier/p/C56Kgonr5_S/"
+
+      - quote: "Men are haunted by the vastness of eternity."
+        source: "https://www.goodreads.com/quotes/7624973-men-are-haunted-by-the-vastness-of-eternity-and-so"
+
+      - quote: "Setting a goal, giving your all, and coming up short is scary. That’s what makes it great, that’s what makes you give your all to the project. And I think my fear is why I have done so well."
+        source: "https://youtu.be/1QU75E7xGj8?t=40"
+
+      - quote: "It was time to marry the game and I said, \"Yeah, I do.\""
+        source: "https://genius.com/Meek-mill-dreams-and-nightmares-intro-lyrics#:~:text=It%20was%20time%20to%20marry%20the%20game%20and%20I%20said%2C%20%22Yeah%2C%20I%20do%22"
+
+      - quote: "It’s the curse of the standard."
+        source: "https://genius.com/13029487"
+
+      - quote: "Now the sky's blackening. I know the mark’s high, butterflies rip apart my stomach."
+        source: "https://genius.com/13029859"
+
+      - quote: "If you want it, you gotta see it with a clear-eyed view."
+        source: "https://genius.com/Meek-mill-dreams-and-nightmares-intro-lyrics#:~:text=If%20you%20want%20it%2C%20you%20gotta%20see%20it%20with%20a%20clear%2Deyed%20view"
