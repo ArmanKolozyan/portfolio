@@ -1,0 +1,10 @@
+<section id="honors">
+  <ul>
+    {{ range .Site.Params.honors.list }}
+      <li>
+        <h4 style="text-decoration: underline;">{{ .title }}</h4>
+        <p>{{ .details | safeHTML }}</p>
+      </li>
+    {{ end }}
+  </ul>
+</section>

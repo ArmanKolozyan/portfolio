@@ -1,0 +1,13 @@
+<section id="volunteering">
+  <ul>
+    {{ range .Site.Params.volunteering.list }}
+      <li>
+        <h4 style="text-decoration: underline;">{{ .position }}</h4>
+        <p>{{ .dates }} &middot; {{ .organization }}</p>
+        <div class="prose prose-stone dark:prose-invert max-w-none">
+          {{ .details | markdownify }}
+          </div>
+      </li>
+    {{ end }}
+  </ul>
+</section>

@@ -44,6 +44,8 @@ params:
     - item: experience
     - item: education
     - item: publication
+    - item: honors
+    - item: volunteering
   aboutme:
     title: About Me
     icon: fas fa-user
@@ -207,3 +209,88 @@ params:
         description: |
           EOS Wetenschap is a renowned Belgian monthly magazine that covers the latest advancements in science for a broad audience. "Arman Kolozyan is 19 years old. He graduated in Science-Mathematics from GO! Atheneum Emanuel Hiel and has always dreamed of having a fantastic memory. Can anyone become a memory champion? He researched this question and wrote an article on his findings."             
           <br>You can read the article <a href="https://www.eoswetenschap.eu/psyche-brein/hoe-word-je-een-geheugenkampioen" target="_blank">here</a> (it is in Dutch).
+
+  honors:
+      title: Honors
+      icon: fas fa-award
+      list:
+        - title: Winner Cyber Security Challenge Belgium 2024 (qualifiers)
+          details: |1-
+            Team competition for Belgian students about cyber security. Our team secured the first place out of 286
+              teams in the qualifiers.
+
+        - title: Finalist Cyber Security Challenge Belgium 2023
+          details: |1-
+            Team competition for Belgian students about cyber security.
+
+        - title: Pre-Finalist Cyber Security Challenge Belgium 2022
+          details: |1-
+            Team competition for Belgian students about cyber security.
+
+        - title: Winner Vrije Universiteit Brussel (VUB) CTF 2021
+          details: |1-
+            Capture The Flag (CTF) is a competition in which different teams solve tasks related to cyber security.
+
+        - title: Interview in BRUZZ (Belgian magazine)
+          details: |1-
+            After I successfully completed my first academic year, I was interviewed in <a href="https://www.bruzz.be/onderwijs/het-corona-effect-meer-studenten-kiezen-voor-informatica-2021-09-28" target="_blank">this Belgian news article</a>
+              about the Computer Science major and my academic achievements. I was also later invited for a radio interview.
+
+        - title: Finalist Wiskunnend Wiske Wedstrijd 2020
+          details: |1-
+            Competition in which challenging mathematics questions must be solved by fifth and sixth year
+              secondary students.
+              
+  volunteering:
+      title: Volunteering
+      icon: fas fa-hands-helping
+      list:
+        - position: Corporate Relations, Lectures & Seminars
+          dates: September 2023 - Present
+          organization: Infogroep
+          details: |1-
+            Infogroep is the student group founded for the students of Computer Science at the Vrije Universiteit
+              Brussel (VUB). At Infogroep, we organize activities such as classes and seminars, competitions, a gaming
+              tournament, a job fair, etc.
+
+        - position: Student Representative in Study Programme Committee
+          dates: October 2022 - Present
+          organization: Vrije Universiteit Brussel
+          details: |1-
+            Serving on the Study Programme Committee as Student Representative, actively contributing to the
+              enhancement of academic programs and the overall student experience. Collaborating with faculty,
+              administration, and fellow students to advocate for student needs, voice concerns, and promote positive
+              changes within the educational institution.
+
+        - position: Student Volunteer at Computer Science Workshop
+          dates: March 2024
+          organization: Brussels Workshop on Real-Time Scheduling and Operating System Synergies
+          details: |1-
+            Assisted attendees in navigating the university campus.
+
+        - position: Corporate Relations, Public Relations and Job Fair Organizer
+          dates: December 2021 - September 2023
+          organization: Infogroep
+          details: |1-
+            Served as the head of the annual job fair organized by our student association. In order to make the job
+              fair a success, I ensured extensive promotion across various academic disciplines, which involved
+              promotion at the beginning of lectures, running paid Facebook advertisements, and more. I made
+              concerted efforts to attract a diverse range of appealing companies to participate. Ultimately, the job fair
+              proved to be a great success, with over 100 attendees, 15+ participating companies, and with more than
+              150 student CVs submitted.
+
+        - position: Student Volunteer at Gaming Event
+          dates: October 2022
+          organization: GameForce
+          details: |1-
+            GameForce is the largest gaming event in the Benelux. As a volunteer, I had the responsibility to stand at
+              various (gaming) booths, attract visitors to these booths, and provide the necessary assistance to the
+              visitors.
+
+        - position: Student Volunteer at Computer Science Conference
+          dates: September 2022
+          organization: International Conference on Managed Programming Languages & Runtimes
+          details: |1-
+            - Room Support: Assisting presenters in the conference room and troubleshooting technical issues,
+              passing the microphone for questions, etc.
+            - Outside Support: helping in the main hall at the registration desk, setting up coffee breaks, etc.
