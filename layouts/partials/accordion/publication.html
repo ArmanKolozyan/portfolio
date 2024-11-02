@@ -2,6 +2,6 @@
   <h4 style="text-decoration: underline;">{{ .title }}</h4>
   <p class="mb-0">{{ .date }} &middot; {{ .magazine }}</p>
   {{ if .description }}
-    <p>{{ .description | markdownify }}</p>
+    <p>{{ .description | safeHTML }}</p>
   {{ end }}
 {{ end }}
