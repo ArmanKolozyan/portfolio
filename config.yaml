@@ -35,6 +35,9 @@ params:
       - icon: fas fa-envelope
         url: "mailto:arman.kolozyan@vub.be"
         title: Email
+      - icon: fas fa-file-pdf
+        url: "Resume_Arman_Kolozyan.pdf"
+        title: Resume  
   showInAccordion:
     - item: aboutme
       expand: true
@@ -44,7 +47,8 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: I am a Computer Science Master's student from Belgium, studying at the [Vrije Universiteit Brussel](https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/applied-sciences-and-engineering-computer-science/program/master/master-software-languages-and-software-engineering). My research interests are in security, specifically in vulnerability analysis of network protocols and Zero-Knowledge Proofs (ZKPs). Currently, I am working on my master's thesis at [Nokia Bell Labs](https://www.bell-labs.com/about/locations/antwerp-belgium), where I am investigating bugs in ZKP programs. Previously, I completed a research internship at [KU Leuven’s COSIC group](https://www.esat.kuleuven.be/cosic/), focusing on the security of the Matter standard for smart home devices.
+    description: |
+      I am a Computer Science Master's student from Belgium, studying at the <a href="https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/applied-sciences-and-engineering-computer-science/program/master/master-software-languages-and-software-engineering" target="_blank">Vrije Universiteit Brussel</a>. My research interests are in security, specifically in vulnerability analysis of network protocols and Zero-Knowledge Proofs (ZKPs). Currently, I am working on my master's thesis at <a href="https://www.bell-labs.com/about/locations/antwerp-belgium" target="_blank">Nokia Bell Labs</a>, where I am investigating bugs in ZKP programs. Previously, I completed a research internship at <a href="https://www.esat.kuleuven.be/cosic/" target="_blank">KU Leuven’s COSIC group</a>, focusing on the security of the Matter standard for smart home devices.
   experience:  
     title: Experiences
     icon: fas fa-briefcase
@@ -202,4 +206,4 @@ params:
         date: "July 2020" 
         description: |
           EOS Wetenschap is a renowned Belgian monthly magazine that covers the latest advancements in science for a broad audience. "Arman Kolozyan is 19 years old. He graduated in Science-Mathematics from GO! Atheneum Emanuel Hiel and has always dreamed of having a fantastic memory. Can anyone become a memory champion? He researched this question and wrote an article on his findings."             
-          You can read the article [here](https://www.eoswetenschap.eu/psyche-brein/hoe-word-je-een-geheugenkampioen) (it is in Dutch).
+          <br>You can read the article <a href="https://www.eoswetenschap.eu/psyche-brein/hoe-word-je-een-geheugenkampioen" target="_blank">here</a> (it is in Dutch).
