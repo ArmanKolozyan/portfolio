@@ -1,4 +1,4 @@
-baseURL: https://armankolozyan.com
+baseURL: https://armankolozyan.github.io/
 languageCode: en-us
 build:
   writeStats: true
