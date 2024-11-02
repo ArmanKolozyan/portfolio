@@ -1,4 +1,4 @@
-baseURL: https://armankolozyan.github.io/
+baseURL: https://armankolozyan.com/
 languageCode: en-us
 build:
   writeStats: true
@@ -88,7 +88,7 @@ params:
           - Participated in hands-on sessions and worked on a small research project, deepening my understanding
             of current challenges and solutions in distributed systems.
 
-      - position: Programming lecturer 
+      - position: Programming Lecturer 
         dates: November 2021 - November 2024
         company: Vrije Universiteit Brussel
         details: |1-
@@ -109,7 +109,7 @@ params:
             students: Plane Geometry, Analysis, Functions, Trigonometry.
           - This was my first experience teaching a class of more than 40 students.
 
-      - position: Lecturer of preparation/bridge course in Mathematics 
+      - position: Lecturer of Preparation/Bridge Course in Mathematics 
         dates: September 2022
         company: Vrije Universiteit Brussel
         details: |1-
@@ -125,7 +125,7 @@ params:
             Regularly making small adjustments to the site, creating new events, etc.
           - Following up a ticketing system and resolving tickets from VUB staff and external people.
 
-      - position: Integration of Usolv-it exercises into the Canvas learning platform 
+      - position: Integration of Usolv-it Exercises into the Canvas Learning Platform 
         dates: July 2022
         company: Vrije Universiteit Brussel
         details: |1-
@@ -133,14 +133,14 @@ params:
           - Managing mathematics assignments in Usolv-it.
           - Converting Usolv-it assignments into tests and then migrating these to the Canvas learning platform.
 
-      - position: Organization of pretests in mathematics, chemistry and physics 
+      - position: Organization of Pretests in Mathematics, Chemistry and Physics 
         dates: September 2021
         company: Vrije Universiteit Brussel
         details: |1-
           - Correcting pre-tests (which test the prior knowledge of first-year university students).
           - Supervising when the students take their tests.
 
-      - position: Assistant of preparation/bridge course in Mathematics 
+      - position: Teaching Assistant of Preparation/bridge Course in Mathematics 
         dates: August 2021 - September 2021
         company: Vrije Universiteit Brussel
         details: |1-
@@ -166,7 +166,7 @@ params:
             smoothly and correctly, enhanced my ability to ask targeted questions to colleagues, and introduced
             me to agile/scrum methodologies.
 
-      - position: Logistics and Outlet employee 
+      - position: Logistics and Outlet Employee 
         dates: July 2020 - September 2020
         company: ZEB, Merchtem
         details: |1-
