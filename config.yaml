@@ -63,7 +63,7 @@ params:
           - Conducting research focused on the security analysis of Zero-Knowledge Proofs (ZKPs).
           - The goal is to identify vulnerabilities in ZKP programs, categorize them, and create a tool to detect
             those bugs.
-          - The thesis ultimately seeks to enhance the security of ZKP implementations and provide insights for
+          - The thesis ultimately aims to enhance the security of ZKP implementations and provide insights for
             developers in this field.
 
       - position: Security Research Intern
@@ -105,20 +105,12 @@ params:
             provided comments to help them make progress.
 
       - position: Lecturer of Mathematics 
-        dates: September 2023
+        dates: September 2022 - September 2023
         company: Vrije Universiteit Brussel
         details: |1-
           - I taught the following topics of mathematics for both mathematics and non-mathematics background
-            students: Plane Geometry, Analysis, Functions, Trigonometry.
+            students: Linear Algebra, Analysis, Functions, Plane Geometry, Three Dimensional Geometry.
           - This was my first experience teaching a class of more than 40 students.
-
-      - position: Lecturer of Preparation/Bridge Course in Mathematics 
-        dates: September 2022
-        company: Vrije Universiteit Brussel
-        details: |1-
-          - I taught the following topics of mathematics for both mathematics and non-mathematics background
-            students: Linear Algebra, Plane Geometry, Three Dimensional Geometry.
-          - This was my first experience teaching a class of more than 30 students.
 
       - position: Webmaster 
         dates: April 2022 - September 2022
@@ -159,7 +151,7 @@ params:
         details: |1-
           - Argenta is a Belgian bank and insurance group offering financial services in Belgium, the Netherlands,
             and Luxembourg.
-          - Spent a month in Argenta’s IT Shared Service Integration department, assisting with the
+          - Spent a month in their IT Shared Service Integration department, assisting with the
             identification of available APIs.
           - Created a comprehensive list of technical and functional descriptions of APIs and researched optimal
             tools for inventory setup and maintenance.
@@ -174,10 +166,6 @@ params:
         company: ZEB, Merchtem
         details: |1-
           - RFID, Sorter, Optical Scanning.
-
-      - position: Cleaner 
-        dates: July 2019 - August 2019
-        company: Jette Clean
 
       - position: Helpdesk 
         dates: March 2019
@@ -342,3 +330,6 @@ params:
 
       - quote: "If you want it, you gotta see it with a clear-eyed view."
         source: "https://genius.com/Meek-mill-dreams-and-nightmares-intro-lyrics#:~:text=If%20you%20want%20it%2C%20you%20gotta%20see%20it%20with%20a%20clear%2Deyed%20view"
+
+      - quote: "To me fearless isn't not having fears, it's not that you're not afraid of anything. I think that being fearless is having a lot of fears, but you jump anyway."  
+        source: https://www.goodreads.com/quotes/369888-to-me-fearless-isn-t-not-having-fears-it-s-not-that
