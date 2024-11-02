@@ -98,7 +98,7 @@ params:
           - Lecturer for additional programming classes (in the programming language Scheme), organized for first
             year Computer Science students at my university. I was allowed to teach these exercise sessions
             together with a few other fellow students.
-          - I always prepared slides to help the students refresh the necessary theory. Then we solved exercises in
+          - Always prepared slides to help the students refresh the necessary theory. Then we solved exercises in
             preparation for the exam.
           - During the coronavirus period, I gave a session online and an on-campus session every other week. 
           - If the session went online, I had the students share their code via a code-sharing website where I
@@ -108,7 +108,7 @@ params:
         dates: September 2022 - September 2023
         company: Vrije Universiteit Brussel
         details: |1-
-          - I taught the following topics of mathematics for both mathematics and non-mathematics background
+          - Taught the following topics of mathematics for both mathematics and non-mathematics background
             students: Linear Algebra, Analysis, Functions, Plane Geometry, Three Dimensional Geometry.
           - This was my first experience teaching a class of more than 40 students.
 
