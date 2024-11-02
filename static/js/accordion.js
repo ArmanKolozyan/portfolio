@@ -1,26 +1,32 @@
 const allPanels = Array.from(document.querySelectorAll(".panel"));
 const allAccordion = Array.from(document.querySelectorAll(".accordion"));
+
 const expandAccordion = (elem) => {
-  if (!elem.parentElement.classList.contains("active")) {
-    allAccordion.forEach((acc) => {
-      acc.classList.remove("active");
-    });
+  const isActive = elem.parentElement.classList.contains("active");
+  
+  // closing all sections
+  allAccordion.forEach((acc) => {
+    acc.classList.remove("active");
+  });
+  allPanels.forEach((panel) => {
+    panel.style.maxHeight = null;
+  });
+
+  // toggling the clicked section
+  if (!isActive) {
     elem.parentElement.classList.add("active");
-    allPanels.forEach(function (elem) {
-      elem.style.maxHeight = null;
-    });
-    let activePanel = elem.parentElement.nextElementSibling;
+    const activePanel = elem.parentElement.nextElementSibling;
+    
     if (
-      activePanel.id != "skill-panel" &&
+      activePanel.id !== "skill-panel" &&
       document.querySelector("#skill-panel")
     ) {
-      let skillBars = Array.from(document.querySelectorAll("#skill-percent"));
-      skillBars.forEach((elem) => {
-        elem.style.width = "0";
+      const skillBars = Array.from(document.querySelectorAll("#skill-percent"));
+      skillBars.forEach((skill) => {
+        skill.style.width = "0";
       });
     }
+    
     activePanel.style.maxHeight = activePanel.scrollHeight + "px";
   }
 };
-
-
