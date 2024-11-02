@@ -41,9 +41,6 @@ params:
     - item: experience
     - item: education
     - item: publication
-    - item: project
-    - item: skill
-    - item: hobby
   aboutme:
     title: About Me
     icon: fas fa-user
@@ -199,36 +196,10 @@ params:
   publication:
     title: Publications
     icon: fas fa-book
-    format:
-      - date
-      - title
-      - authors
-      - journal
-    types:
-      - Journal Articles
-      - Proceedings
     list:
-      - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Journal Articles
-      - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Journal Articles
-      - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Proceedings
+      - title: "How to Become a Memory Champion?"
+        magazine: "EOS Wetenschap"
+        date: "July 2020" 
+        description: |
+          EOS Wetenschap is a renowned Belgian monthly magazine that covers the latest advancements in science for a broad audience. "Arman Kolozyan is 19 years old. He graduated in Science-Mathematics from GO! Atheneum Emanuel Hiel and has always dreamed of having a fantastic memory. Can anyone become a memory champion? He researched this question and wrote an article on his findings."             
+          You can read the article [here](https://www.eoswetenschap.eu/psyche-brein/hoe-word-je-een-geheugenkampioen) (it is in Dutch).
