@@ -75,8 +75,8 @@ params:
             the aim of identifying potential security weaknesses and vulnerabilities.
           - Performed formal verification of Matter’s protocols using automated tools, which involved modeling
             and verifying the protocols to uncover flaws.
-          - Worked under the guidance of Dave Singelée, Sayon Duttagupta, Georgio Nicolas and Professor Bart
-            Preneel, whose combined expertise was instrumental to the project.
+          - Worked under the guidance of [Dave Singelée](https://scholar.google.be/citations?user=ekrwosIAAAAJ&hl=nl), [Georgio Nicolas](https://scholar.google.com/citations?user=l7vlhqgAAAAJ&hl=en), [Sayon Duttagupta](https://dblp.uni-trier.de/pid/313/5856.html) and Professor [Bart
+            Preneel](https://scholar.google.com/citations?user=omio-RsAAAAJ&hl=nl), whose combined expertise was instrumental to the project.
           - This experience strengthened my skills in protocol security analysis and formal verification, and
             expanded my understanding of security challenges within the IoT field.
 

@@ -1,14 +1,26 @@
-{{ range.Site.Params.experience.list }}
-<h4 style="text-decoration: underline;">{{ .position }}</h4>
-<p {{if .details }}class="mb-0"{{ end }}>
-  {{ .dates | markdownify }} &middot; {{ if .url }}
-  <a href="{{ .url }}">{{ .company }}</a>
-  {{ else }} {{ .company }} {{ end }}
-</p>
-{{ if .details }}
-<div class="prose prose-stone dark:prose-invert max-w-none">
-{{ .details | markdownify }}
-</div>
+{{ range .Site.Params.experience.list }}
+  <h4 style="text-decoration: underline;">{{ .position }}</h4>
+  <p {{ if .details }}class="mb-0"{{ end }}>
+    {{ .dates | markdownify }} &middot; 
+    {{ if .url }}
+      <a href="{{ .url }}" target="_blank">{{ .company }}</a>
+    {{ else }}
+      {{ .company }}
+    {{ end }}
+  </p>
+  {{ if .details }}
+    <div class="prose prose-stone dark:prose-invert max-w-none details-section">
+      {{ .details | markdownify }}
+    </div>
+  {{ end }}
 {{ end }}
 
-{{ end }}
+<script>
+  // open links in the details section in a new tab
+  document.addEventListener("DOMContentLoaded", function() {
+    const detailLinks = document.querySelectorAll(".details-section a");
+    detailLinks.forEach(link => {
+      link.setAttribute("target", "_blank");
+    });
+  });
+</script>
