@@ -10,7 +10,7 @@ params:
     showAttribute: true
     singlePage: false
   favicons:
-    use: true
+    use: false
     metas: |2-
               <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
               <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
@@ -135,7 +135,7 @@ params:
           - Correcting pre-tests (which test the prior knowledge of first-year university students).
           - Supervising when the students take their tests.
 
-      - position: Teaching Assistant of Preparation/bridge Course in Mathematics 
+      - position: Teaching Assistant of Preparation/Bridge Course in Mathematics 
         dates: August 2021 - September 2021
         company: Vrije Universiteit Brussel
         details: |1-
