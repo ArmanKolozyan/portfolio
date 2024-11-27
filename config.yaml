@@ -237,27 +237,33 @@ params:
       icon: fas fa-award
       list:
         - title: Winner Cyber Security Challenge Belgium 2024 (qualifiers)
+          date: March 2024
           details: |1-
             <a href="https://www.cybersecuritychallenge.be" target="_blank">National team competition</a> for students about cyber security. We advanced through the qualifiers, securing first place out of 286 teams. We later finished 8th in the finals. My main contributions were to the cryptography category.
 
         - title: Finalist Cyber Security Challenge Belgium 2023
+          date: March 2023
           details: |1-
             <a href="https://www.cybersecuritychallenge.be" target="_blank">National team competition</a> for students about cyber security. We successfully advanced through the qualifiers and secured 7th place out of 289 teams in the finals. My main contributions were to the cryptography and forensics categories.
 
         - title: Pre-Finalist Cyber Security Challenge Belgium 2022
+          date: March 2022
           details: |1-
             <a href="https://www.cybersecuritychallenge.be" target="_blank">National team competition</a> for students about cyber security. We successfully advanced through the qualifiers and secured 43rd place out of 253 teams in the pre-finals. Unfortunately, we did not progress to the finals. My main contributions were to the cryptography and forensics categories.
 
         - title: Winner Vrije Universiteit Brussel (VUB) CTF 2021
+          date: November 2021
           details: |1-
             Capture The Flag (CTF) is a competition in which teams solve tasks related to cyber security. <a href="https://ctf.infogroep.be" target="_blank">This competition</a> was organized by the Vrije Universiteit Brussel. My contribution was mainly on the cryptography category, where I successfully solved all of the crypto challenges.
 
         - title: Interview in BRUZZ (Belgian magazine)
+          date: September 2021
           details: |1-
             After I successfully completed my first academic year, I was interviewed in <a href="https://www.bruzz.be/onderwijs/het-corona-effect-meer-studenten-kiezen-voor-informatica-2021-09-28" target="_blank">this Belgian news article</a>
               about the Computer Science major and my academic achievements. I was also later invited for a radio interview.
 
         - title: Finalist Wiskunnend Wiske Wedstrijd 2020
+          date: March 2020
           details: |1-
             <a href="https://www.vub.be/wiskunnend-wiske" target="_blank">Competition</a> where hard mathematics questions must be solved by students in their final years of secondary school. I solved the three challenges on my own and, upon hearing that my submission qualified for the finals, gathered a team to compete in the next stage.
 

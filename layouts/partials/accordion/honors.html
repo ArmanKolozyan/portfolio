@@ -3,6 +3,7 @@
     {{ range .Site.Params.honors.list }}
       <li>
         <h4 style="text-decoration: underline;">{{ .title }}</h4>
+        <p class="mb-0">{{ .date }}</p>
         <p>{{ .details | safeHTML }}</p>
       </li>
     {{ end }}
