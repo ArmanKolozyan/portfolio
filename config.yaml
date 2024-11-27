@@ -332,6 +332,9 @@ params:
     intro: |
       Below is a collection of my favorite motivational quotes (well... some might be more inspirational than others). I have included links for more information about the authors, though for a few lesser-known ones, I simply referenced where I first encountered them.
     list:
+      - quote: "Setting a goal, giving your all, and coming up short is scary. That’s what makes it great, that’s what makes you give your all to the project. And I think my fear is why I have done so well."
+        source: "https://youtu.be/1QU75E7xGj8?t=40"
+
       - quote: "Fate loves the fearless."
         source: "https://www.goodreads.com/quotes/14333-fate-loves-the-fearless#:~:text=Quote%20by%20James%20Russell%20Lowell%3A%20%E2%80%9CFate%20loves%20the%20fearless.%E2%80%9D"
 
@@ -359,9 +362,6 @@ params:
       - quote: "Men are haunted by the vastness of eternity."
         source: "https://www.goodreads.com/quotes/7624973-men-are-haunted-by-the-vastness-of-eternity-and-so"
 
-      - quote: "Setting a goal, giving your all, and coming up short is scary. That’s what makes it great, that’s what makes you give your all to the project. And I think my fear is why I have done so well."
-        source: "https://youtu.be/1QU75E7xGj8?t=40"
-
       - quote: "It was time to marry the game and I said, \"Yeah, I do.\""
         source: "https://genius.com/Meek-mill-dreams-and-nightmares-intro-lyrics#:~:text=It%20was%20time%20to%20marry%20the%20game%20and%20I%20said%2C%20%22Yeah%2C%20I%20do%22"
 
@@ -376,3 +376,10 @@ params:
 
       - quote: "To me fearless isn't not having fears, it's not that you're not afraid of anything. I think that being fearless is having a lot of fears, but you jump anyway."  
         source: https://www.goodreads.com/quotes/369888-to-me-fearless-isn-t-not-having-fears-it-s-not-that
+
+      - quote: "Perfection is not just about control. It's also about letting go."  
+        source: https://youtu.be/ylRO9Yenjmg?t=18
+
+      - quote: "It ain't about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That's how winning is done!"  
+        source: https://www.youtube.com/shorts/tZUC-uAGLEA
+
