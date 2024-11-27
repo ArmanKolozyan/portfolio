@@ -40,7 +40,9 @@ params:
   showInAccordion:
     - item: aboutme
       expand: true
-    - item: experience
+    - item: research_experience
+    - item: teaching_experience
+    - item: work_experience
     - item: education
     - item: publication
     - item: honors
@@ -51,19 +53,17 @@ params:
     icon: fas fa-user
     description: |
       I am a Computer Science Master's student from Belgium, studying at the <a href="https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/applied-sciences-and-engineering-computer-science/program/master/master-software-languages-and-software-engineering" target="_blank">Vrije Universiteit Brussel</a>. My research experience lies in security, specifically in vulnerability analysis of network protocols and Zero-Knowledge Proofs (ZKPs). Currently, I am working on my master's thesis in collaboration with <a href="https://www.bell-labs.com/about/locations/antwerp-belgium" target="_blank">Nokia Bell Labs</a>, where I am investigating bugs in ZKP programs. Previously, I completed a research internship at <a href="https://www.esat.kuleuven.be/cosic/" target="_blank">KU Leuven’s COSIC group</a>, where I conducted a security analysis of the Matter standard for smart home devices. My main research goal is to make technologies more secure in order to protect our privacy and data.
-  experience:  
-    title: Experiences
-    icon: fas fa-briefcase
+  research_experience:  
+    title: Research Experience
+    icon: fas fa-search
     list:
       - position: Security Research Intern
         dates: September 2024 - Present
         company: Nokia Bell Labs, Antwerpen
         details: |1-
-          - Conducting research focused on the security analysis of Zero-Knowledge Proofs (ZKPs).
-          - The goal is to identify vulnerabilities in ZKP programs, categorize them, and create a tool to detect
-            those bugs.
-          - The thesis ultimately aims to enhance the security of ZKP implementations and provide insights for
-            developers in this field.
+          - Conducting research focused on the security analysis of Zero-Knowledge Proofs (ZKPs), under the guidance of [Professor Coen De Roover](https://scholar.google.com/citations?user=PdcRlcgAAAAJ&hl=en) and [Dr. Janwillem Swalens](https://scholar.google.be/citations?user=djyu0toAAAAJ&hl=nl).
+          - Part of my Master’s thesis.
+          - Developing a language-agnostic bug detector for ZKP programs.
 
       - position: Security Research Intern
         dates: July 2024 - September 2024
@@ -73,8 +73,8 @@ params:
           - Conducted an in-depth security analysis of the Matter standard for smart home communication, with
             the aim of identifying potential security weaknesses and vulnerabilities.
           - Performed formal verification of Matter’s protocols using automated tools, which involved modeling
-            and verifying the protocols to uncover flaws.
-          - Worked under the guidance of [Dave Singelée](https://scholar.google.be/citations?user=ekrwosIAAAAJ&hl=nl), [Georgio Nicolas](https://scholar.google.com/citations?user=l7vlhqgAAAAJ&hl=en), [Sayon Duttagupta](https://dblp.uni-trier.de/pid/313/5856.html) and Professor [Bart
+            and verifying the protocols.
+          - Worked under the guidance of [Dr. Dave Singelée](https://scholar.google.be/citations?user=ekrwosIAAAAJ&hl=nl), [Georgio Nicolas](https://scholar.google.com/citations?user=l7vlhqgAAAAJ&hl=en), [Sayon Duttagupta](https://dblp.uni-trier.de/pid/313/5856.html) and [Professor Bart
             Preneel](https://scholar.google.com/citations?user=omio-RsAAAAJ&hl=nl), whose combined expertise was instrumental to the project.
           - This experience strengthened my skills in protocol security analysis and formal verification, and
             expanded my understanding of security challenges within the IoT field.
@@ -83,13 +83,26 @@ params:
         dates: September 2024
         company: Technische Universität Darmstadt, Germany
         details: |1-
-          - Attended the ACM Europe Summer School on Distributed and Replicated Environments (DARE) 2024 in
-            Darmstadt, Germany, focused on advanced topics in distributed systems.
+          - Attended the ACM Europe Summer School on Distributed and Replicated Environments (DARE) 2024 in Germany.
+          - Focused on advanced topics in distributed systems.
           - It offered me both theoretical and practical knowledge, with lectures focusing on consistency models,
             verification techniques, and programming models for distributed applications.
-          - Participated in hands-on sessions and worked on a small research project, deepening my understanding
-            of current challenges and solutions in distributed systems.
+          - Participated in hands-on sessions and conducted a small research project on enhancing decentralized
+            access control algorithms with a focus on security.  
 
+      - position: Bachelor's Thesis 
+        dates: November 2021 - November 2024
+        company: Vrije Universiteit Brussel, Brussels
+        details: |1-
+          - Conducted research on enhancing the speed of modular static analyses..
+          - Identified limitations in existing worklist heuristics.
+          - Designed more efficient ones. 
+          - Benchmarked all new and existing worklist heuristics.
+
+  teaching_experience:  
+    title: Teaching Experience
+    icon: fas fa-chalkboard-teacher
+    list:
       - position: Programming Lecturer 
         dates: November 2021 - November 2024
         company: Vrije Universiteit Brussel
@@ -144,6 +157,10 @@ params:
           - Updating the solutions of exercises on the website of the mathematics book 'Wiskundige
             basisvaardigheden' (basiswiskunde.be).
 
+  work_experience:  
+    title: Work Experience
+    icon: fas fa-briefcase
+    list:
       - position: API Inventarisation 
         dates: August 2022
         company: Argenta, Antwerpen
@@ -171,6 +188,7 @@ params:
         company: FAMIFED, Brussel
         details: |1-
           - Assisting Famiris (federal child benefits agency) staff with technical problems.
+            
   education:
     title: Education
     icon: fas fa-graduation-cap
