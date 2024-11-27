@@ -262,16 +262,19 @@ params:
             <a href="https://www.vub.be/wiskunnend-wiske" target="_blank">Competition</a> where hard mathematics questions must be solved by students in their final years of secondary school. I solved the three challenges on my own and, upon hearing that my submission qualified for the finals, gathered a team to compete in the next stage.
 
   volunteering:
+
       title: Volunteering
       icon: fas fa-hands-helping
       list:
-        - position: Corporate Relations, Lectures & Seminars
-          dates: September 2023 - Present
+        - position: Corporate Relations, CTF, iLAN
+          dates: September 2024 - Present
           organization: Infogroep
           details: |1-
-            Infogroep is the student group founded for the students of Computer Science at the Vrije Universiteit
-              Brussel (VUB). At Infogroep, we organize activities such as classes and seminars, competitions, a gaming
-              tournament, a job fair, etc.
+            Infogroep is the student association dedicated to supporting Computer Science students at the Vrije
+            Universiteit Brussel. At Infogroep, we organize activities such as classes and seminars, competitions, a
+            gaming tournament, a job fair, etc. Currently, I manage our corporate relations with companies such as
+            Deloitte and PwC, assist in organizing the yearly Capture the Flag (CTF) security competition, and help
+            organizing our annual LAN party event.
 
         - position: Student Representative in Study Programme Committee
           dates: October 2022 - Present
@@ -280,7 +283,17 @@ params:
             Serving on the Study Programme Committee as Student Representative, actively contributing to the
               enhancement of academic programs and the overall student experience. Collaborating with faculty,
               administration, and fellow students to advocate for student needs, voice concerns, and promote positive
-              changes within the educational institution.
+              changes within the educational institution.    
+
+        - position: Corporate Relations, Lectures & Seminars
+          dates: September 2023 - September 2024
+          organization: Infogroep
+          details: |1-
+            Infogroep is the student association dedicated to supporting Computer Science students at the Vrije
+            Universiteit Brussel. At Infogroep, we organize activities such as classes and seminars, competitions, a
+            gaming tournament, a job fair, etc. I managed our corporate relations with companies such as Deloitte and PwC. I
+            also organized and taught several lectures and seminars on topics such as using LaTeX (Overleaf) for
+            academic writing.
 
         - position: Student Volunteer at Computer Science Workshop
           dates: March 2024
@@ -288,16 +301,16 @@ params:
           details: |1-
             Assisted attendees in navigating the university campus.
 
-        - position: Corporate Relations, Public Relations and Job Fair Organizer
+        - position: Job Fair Organizer
           dates: December 2021 - September 2023
           organization: Infogroep
           details: |1-
-            Served as the head of the annual job fair organized by our student association. In order to make the job
-              fair a success, I ensured extensive promotion across various academic disciplines, which involved
-              promotion at the beginning of lectures, running paid Facebook advertisements, and more. I made
-              concerted efforts to attract a diverse range of appealing companies to participate. Ultimately, the job fair
-              proved to be a great success, with over 100 attendees, 15+ participating companies, and with more than
-              150 student CVs submitted.
+            I served as the head of the annual job fair organized by our student association. In order to make the job
+            fair a success, I ensured extensive promotion across various academic disciplines, which involved
+            promotion at the beginning of lectures, running paid Facebook advertisements, and more. I dedicated significant effort to 
+            attracting a diverse range of appealing companies to participate. Ultimately, the job fair
+            proved to be a great success, with over 100 attendees, 15+ participating companies, and with more than
+            150 student resumes submitted.
 
         - position: Student Volunteer at Gaming Event
           dates: October 2022
@@ -311,9 +324,8 @@ params:
           dates: September 2022
           organization: International Conference on Managed Programming Languages & Runtimes
           details: |1-
-            - Room Support: Assisting presenters in the conference room and troubleshooting technical issues,
-              passing the microphone for questions, etc.
-            - Outside Support: helping in the main hall at the registration desk, setting up coffee breaks, etc.
+            I provided room support by assisting presenters in the conference room, troubleshooting technical issues, and passing the microphone for audience questions. 
+            Additionally, I offered outside support in the main hall, where I helped at the registration desk and assisted in setting up coffee breaks.
   favorite_quotes:
     title: Favorite Motivational Quotes
     icon: fas fa-quote-left
