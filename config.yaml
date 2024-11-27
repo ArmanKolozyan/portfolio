@@ -108,8 +108,7 @@ params:
         company: Vrije Universiteit Brussel
         details: |1-
           - Lecturer for additional programming classes (in the programming language Scheme), organized for first
-            year Computer Science students at my university. I was allowed to teach these exercise sessions
-            together with a few other fellow students.
+            year Computer Science students at my university. 
           - Always prepared slides to help the students refresh the necessary theory. Then we solved exercises in
             preparation for the exam.
           - During the coronavirus period, I gave a session online and an on-campus session every other week. 
@@ -124,12 +123,36 @@ params:
             students: Linear Algebra, Analysis, Functions, Plane Geometry, Three Dimensional Geometry.
           - This was my first experience teaching a class of more than 40 students.
 
+      - position: Teaching Assistant of Preparation/Bridge Course in Mathematics 
+        dates: August 2021 - September 2021
+        company: Vrije Universiteit Brussel
+        details: |1-
+          - During the coronavirus pandemic.
+          - Organizing live question sessions.
+          - Answering students' questions on discussion fora.
+          - Correcting tests.
+          - Updating the solutions of exercises on the website of the mathematics book 'Wiskundige
+            basisvaardigheden' (basiswiskunde.be).
+
+      - position: Teaching Volunteer
+        dates: December 2021 - Present
+        company: Infogroep Student Association
+        details: |1-
+          - Infogroep is the student association dedicated to supporting Computer Science students at the Vrije Universiteit Brussel.
+          - Organizing and teaching classes on various subjects, including a preparation workshop for my university's Capture the Flag (CTF) security competition.
+          - Teaching an introductory session on using LaTeX (Overleaf) for writing academic essays and reports.              
+
+  work_experience:  
+    title: Work Experience
+    icon: fas fa-briefcase
+    list:
+
       - position: Webmaster 
         dates: April 2022 - September 2022
         company: Vrije Universiteit Brussel
         details: |1-
           - Helping with the development of the new website of the Vrije Universiteit Brussel (VUB).
-            Regularly making small adjustments to the site, creating new events, etc.
+          - Regularly making small adjustments to the site, creating new events, etc.
           - Following up a ticketing system and resolving tickets from VUB staff and external people.
 
       - position: Integration of Usolv-it Exercises into the Canvas Learning Platform 
@@ -147,20 +170,6 @@ params:
           - Correcting pre-tests (which test the prior knowledge of first-year university students).
           - Supervising when the students take their tests.
 
-      - position: Teaching Assistant of Preparation/Bridge Course in Mathematics 
-        dates: August 2021 - September 2021
-        company: Vrije Universiteit Brussel
-        details: |1-
-          - Organizing live question sessions.
-          - Answering students' questions on discussion fora.
-          - Correcting tests.
-          - Updating the solutions of exercises on the website of the mathematics book 'Wiskundige
-            basisvaardigheden' (basiswiskunde.be).
-
-  work_experience:  
-    title: Work Experience
-    icon: fas fa-briefcase
-    list:
       - position: API Inventarisation 
         dates: August 2022
         company: Argenta, Antwerpen
@@ -208,7 +217,7 @@ params:
   publication:
     title: Publications
     icon: fas fa-book
-    list:
+    list:          
       - title: "How to Become a Memory Champion?"
         magazine: "EOS Wetenschap"
         date: "July 2020" 
