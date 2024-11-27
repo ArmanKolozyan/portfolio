@@ -217,7 +217,13 @@ params:
   publication:
     title: Publications
     icon: fas fa-book
-    list:          
+    list:
+      - title: In-Depth Security Analysis of the Matter Protocol
+        magazine: (in preparation)
+        date: "2025" 
+        description: |1-
+          This paper is based on the work I conducted during my internship at COSIC. 
+          We are currently preparing it for submission to a top-tier security conference (name omitted to comply with the double-blind review policy).
       - title: "How to Become a Memory Champion?"
         magazine: "EOS Wetenschap"
         date: "July 2020" 
