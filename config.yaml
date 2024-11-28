@@ -84,7 +84,7 @@ params:
         company: Technische Universität Darmstadt, Germany
         details: |1-
           - Attended the ACM Europe Summer School on Distributed and Replicated Environments (DARE) 2024 in Germany.
-          - Focused on advanced topics in distributed systems.
+          - The summer school was focused on advanced topics in distributed systems.
           - It offered me both theoretical and practical knowledge, with lectures focusing on consistency models,
             verification techniques, and programming models for distributed applications.
           - Participated in hands-on sessions and conducted a small research project on enhancing decentralized
@@ -128,10 +128,10 @@ params:
         company: Vrije Universiteit Brussel
         details: |1-
           - During the coronavirus pandemic.
-          - Organizing live question sessions.
-          - Answering students' questions on discussion fora.
-          - Correcting tests.
-          - Updating the solutions of exercises on the website of the mathematics book 'Wiskundige
+          - Organized live question sessions.
+          - Answered students' questions on discussion fora.
+          - Corrected mathematics tests.
+          - Updated the solutions of exercises on the website of the mathematics book 'Wiskundige
             basisvaardigheden' (basiswiskunde.be).
 
       - position: Teaching Volunteer
@@ -139,8 +139,8 @@ params:
         company: Infogroep Student Association
         details: |1-
           - Infogroep is the student association dedicated to supporting Computer Science students at the Vrije Universiteit Brussel.
-          - Organizing and teaching classes on various subjects, including a preparation workshop for my university's Capture the Flag (CTF) security competition.
-          - Teaching an introductory session on using LaTeX (Overleaf) for writing academic essays and reports.              
+          - Organized and taught classes on various subjects, including a preparation workshop for my university's Capture the Flag (CTF) security competition.
+          - Taught an introductory session on using LaTeX (Overleaf) for writing academic essays and reports.              
 
   work_experience:  
     title: Work Experience
@@ -151,24 +151,24 @@ params:
         dates: April 2022 - September 2022
         company: Vrije Universiteit Brussel
         details: |1-
-          - Helping with the development of the new website of the Vrije Universiteit Brussel (VUB).
-          - Regularly making small adjustments to the site, creating new events, etc.
-          - Following up a ticketing system and resolving tickets from VUB staff and external people.
+          - Helped with the development of the new website of the Vrije Universiteit Brussel (VUB).
+          - Regularly made small adjustments to the site, created new events, etc.
+          - Followed up a ticketing system and resolved tickets from VUB staff and external people.
 
       - position: Integration of Usolv-it Exercises into the Canvas Learning Platform 
         dates: July 2022
         company: Vrije Universiteit Brussel
         details: |1-
-          - Writing mathematics problems in LaTeX format.
-          - Managing mathematics assignments in Usolv-it.
-          - Converting Usolv-it assignments into tests and then migrating these to the Canvas learning platform.
+          - Wrote mathematics problems in LaTeX format.
+          - Managed mathematics assignments in Usolv-it.
+          - Converted Usolv-it assignments into tests and then migrated these to the Canvas learning platform.
 
       - position: Organization of Pretests in Mathematics, Chemistry and Physics 
         dates: September 2021
         company: Vrije Universiteit Brussel
         details: |1-
-          - Correcting pre-tests (which test the prior knowledge of first-year university students).
-          - Supervising when the students take their tests.
+          - Corrected pre-tests (which test the prior knowledge of first-year university students).
+          - Supervised when the students took their tests.
 
       - position: API Inventarisation 
         dates: August 2022
@@ -196,7 +196,8 @@ params:
         dates: March 2019
         company: FAMIFED, Brussel
         details: |1-
-          - Assisting Famiris (federal child benefits agency) staff with technical problems.
+          - Famiris is the federal agency responsible for managing child benefits in Belgium. 
+          - Assisted its staff with technical problems.
             
   education:
     title: Education
