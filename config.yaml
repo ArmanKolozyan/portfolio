@@ -61,7 +61,7 @@ params:
         dates: September 2024 - Present
         company: Nokia Bell Labs, Antwerpen
         details: |1-
-          - Conducting research focused on the security analysis of Zero-Knowledge Proofs (ZKPs), under the guidance of [Professor Coen De Roover](https://scholar.google.com/citations?user=PdcRlcgAAAAJ&hl=en) and [Dr. Janwillem Swalens](https://scholar.google.be/citations?user=djyu0toAAAAJ&hl=nl).
+          - Conducting research focused on the security analysis of Zero-Knowledge Proofs (ZKPs), under the supervision of [Prof. Coen De Roover](https://scholar.google.com/citations?user=PdcRlcgAAAAJ) and [Dr. Janwillem Swalens](https://www.bell-labs.com/about/researcher-profiles/janwillemswalens/).
           - Part of my Master’s thesis.
           - Developing a language-agnostic bug detector for ZKP programs.
 
@@ -74,8 +74,8 @@ params:
             the aim of identifying potential security weaknesses and vulnerabilities.
           - Performed formal verification of Matter’s protocols using automated tools, which involved modeling
             and verifying the protocols.
-          - Worked under the guidance of [Dr. Dave Singelée](https://scholar.google.be/citations?user=ekrwosIAAAAJ&hl=nl), [Georgio Nicolas](https://scholar.google.com/citations?user=l7vlhqgAAAAJ&hl=en), [Sayon Duttagupta](https://dblp.uni-trier.de/pid/313/5856.html) and [Professor Bart
-            Preneel](https://scholar.google.com/citations?user=omio-RsAAAAJ&hl=nl), whose combined expertise was instrumental to the project.
+          - Worked under the guidance of [Dr. Dave Singelée](https://scholar.google.be/citations?user=ekrwosIAAAAJ), [Georgio Nicolas](https://scholar.google.com/citations?user=l7vlhqgAAAAJ), [Sayon Duttagupta](https://dblp.uni-trier.de/pid/313/5856.html) and [Prof. Bart
+            Preneel](https://scholar.google.com/citations?user=omio-RsAAAAJ).
           - This experience strengthened my skills in protocol security analysis and formal verification, and
             expanded my understanding of security challenges within the IoT field.
 
@@ -85,16 +85,20 @@ params:
         details: |1-
           - Attended the ACM Europe Summer School on Distributed and Replicated Environments (DARE) 2024 in Germany.
           - The summer school was focused on advanced topics in distributed systems.
-          - It offered me both theoretical and practical knowledge, with lectures focusing on consistency models,
-            verification techniques, and programming models for distributed applications.
+          - It offered me both theoretical and practical knowledge, with lectures focusing on CRDTs, Byzantine fault-tolerance,
+            distributed systems, verification techniques for consistency, and programming/debugging/testing distributed applications.
           - Participated in hands-on sessions and conducted a small research project on enhancing decentralized
             access control algorithms with a focus on security.  
+          - Took classes from esteemed experts in this field, including [Prof. Martin Kleppmann](https://martin.kleppmann.com), [Prof. Carlos Baquero](https://cbaquero.github.io/web/), 
+            [Prof. Antonio Fernández Anta](https://networks.imdea.org/team/imdea-networks-team/people/antonio-fernandez-anta/), 
+            [Prof. Mira Mezini](https://www.stg.tu-darmstadt.de/main_stg/staff_stg/mira_mezini_1.en.jsp), and [Prof. Elisa Gonzalez Boix](https://soft.vub.ac.be/disco/elisa/).  
+          - Fully funded by the [Erasmus+ grant](https://erasmus-plus.ec.europa.eu/about-erasmus/what-is-erasmus).   
 
       - position: Bachelor's Thesis 
         dates: November 2021 - November 2024
         company: Vrije Universiteit Brussel, Brussels
         details: |1-
-          - Conducted research on enhancing the speed of modular static analyses..
+          - Conducted research on enhancing the speed of modular static analyses, under the supervision of [Prof. Coen De Roover](https://scholar.google.com/citations?user=PdcRlcgAAAAJ).
           - Identified limitations in existing worklist heuristics.
           - Designed more efficient ones. 
           - Benchmarked all new and existing worklist heuristics.
@@ -146,7 +150,6 @@ params:
     title: Work Experience
     icon: fas fa-briefcase
     list:
-
       - position: Webmaster 
         dates: April 2022 - September 2022
         company: Vrije Universiteit Brussel
