@@ -276,24 +276,20 @@ params:
       title: Volunteering
       icon: fas fa-hands-helping
       list:
-        - position: Corporate Relations, CTF, iLAN
-          dates: September 2024 - Present
-          organization: Infogroep
+        - position: Volunteer at FOSDEM
+          dates: February 2025
+          organization: FOSDEM
           details: |1-
-            Infogroep is the student association dedicated to supporting Computer Science students at the Vrije
-            Universiteit Brussel. At Infogroep, we organize activities such as classes and seminars, competitions, a
-            gaming tournament, a job fair, etc. Currently, I manage our corporate relations with companies such as
-            Deloitte and PwC, assist in organizing the yearly Capture the Flag (CTF) security competition, and help
-            organizing our annual LAN party event.
+            Assisted visitors at the info desk and sold FOSDEM merchandise.
 
         - position: Student Representative in Study Programme Committee
           dates: October 2022 - Present
           organization: Vrije Universiteit Brussel
           details: |1-
             Serving on the Study Programme Committee as Student Representative, actively contributing to the
-              enhancement of academic programs and the overall student experience. Collaborating with faculty,
-              administration, and fellow students to advocate for student needs, voice concerns, and promote positive
-              changes within the educational institution.    
+            enhancement of academic programs and the overall student experience. Collaborating with faculty,
+            administration, and fellow students to advocate for student needs, voice concerns, and promote positive
+            changes within the educational institution.    
 
         - position: Corporate Relations, Lectures & Seminars
           dates: September 2023 - September 2024
@@ -317,8 +313,8 @@ params:
           details: |1-
             I served as the head of the annual job fair organized by our student association. In order to make the job
             fair a success, I ensured extensive promotion across various academic disciplines, which involved
-            promotion at the beginning of lectures, running paid Facebook advertisements, and more. I dedicated significant effort to 
-            attracting a diverse range of appealing companies to participate. Ultimately, the job fair
+            promotion at the beginning of lectures, running paid Facebook advertisements, and more. My goal was to 
+            attract a diverse range of appealing companies to participate. Ultimately, the job fair
             proved to be a great success, with over 100 attendees, 15+ participating companies, and with more than
             150 student resumes submitted.
 
@@ -326,9 +322,8 @@ params:
           dates: October 2022
           organization: GameForce
           details: |1-
-            GameForce is the largest gaming event in the Benelux. As a volunteer, I had the responsibility to stand at
-              various (gaming) booths, attract visitors to these booths, and provide the necessary assistance to the
-              visitors.
+            GameForce is the largest gaming event in the Benelux. I had the responsibility to stand at
+              various booths, attract visitors, and provide the necessary assistance to them.
 
         - position: Student Volunteer at Computer Science Conference
           dates: September 2022
