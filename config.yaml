@@ -240,10 +240,31 @@ params:
       title: Honors
       icon: fas fa-award
       list:
+
+        - title: Grant for EPFL-ETH Summer School on Lattice-based Cryptography
+          date: July 2025
+          details: |1-
+            Awarded a grant to attend the <a href="https://lattice-school.epfl.ch" target="_blank">EPFL-ETH Summer School on Lattice-based Cryptography</a>, covering both the registration fee and accommodation.
+
+        - title: BelCham Brights Membership
+          date: May 2025
+          details: |1-
+            Granted a 1-year <a href="https://www.belcham.org/j-1-visa" target="_blank">BelCham Brights membership</a>, which provides eligibility to apply for a J-1 visa through the Belgian-American Chamber of Commerce.
+        
+        - title: 4th Place Cyber Security Challenge Belgium 2025
+          date: March 2025
+          details: |1-
+            <a href="https://www.cybersecuritychallenge.be" target="_blank">National team competition</a> for students about cyber security. Our team secured the 4th place out of 359 teams. My main contributions were to the cryptography category.
+
         - title: Winner Cyber Security Challenge Belgium 2024 (qualifiers)
           date: March 2024
           details: |1-
             <a href="https://www.cybersecuritychallenge.be" target="_blank">National team competition</a> for students about cyber security. We advanced through the qualifiers, securing first place out of 286 teams. We later finished 8th in the finals. My main contributions were to the cryptography category.
+
+        - title: Erasmus+ Grant for ACM Europe Summer School (DARE 2024)
+          date: September 2024
+          details: |1-
+            Received an Erasmus+ grant to attend the ACM Europe Summer School on Distributed and Replicated Environments (DARE) 2024 at Technische Universität Darmstadt, Germany.
 
         - title: Finalist Cyber Security Challenge Belgium 2023
           date: March 2023
