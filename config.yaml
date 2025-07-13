@@ -41,10 +41,10 @@ params:
     - item: aboutme
       expand: true
     - item: research_experience
+    - item: publication
     - item: teaching_experience
     - item: work_experience
     - item: education
-    - item: publication
     - item: honors
     - item: volunteering
     - item: favorite_quotes
@@ -102,6 +102,27 @@ params:
           - Identified limitations in existing worklist heuristics.
           - Designed more efficient ones. 
           - Benchmarked all new and existing worklist heuristics.
+
+  publication:
+    title: Publications
+    icon: fas fa-book
+    list:
+      - title: What's the Matter? An In-Depth Security Analysis of the Matter Protocol (co-first author)
+        magazine: Cryptology ePrint Archive
+        date: "2025" 
+        description: |1-
+          This paper is based on the work I conducted during my internship at COSIC. 
+          It presents the first formal and practical security analysis of the Matter protocol, an IoT standard adopted by Apple, Google, Amazon, and others. 
+          Our work identifies critical design and implementation vulnerabilities in its key-establishment protocols (PASE and CASE), and proposes improvements to strengthen the protocol. 
+          We responsibly disclosed these issues, some of which led to patches in the official codebase. 
+          The paper is publicly available <a href="https://eprint.iacr.org/2025/1268" target="_blank">here</a>.
+          
+      - title: "How to Become a Memory Champion?"
+        magazine: "EOS Wetenschap"
+        date: "July 2020" 
+        description: |
+          EOS Wetenschap is a renowned Belgian monthly magazine that covers the latest advancements in science for a broad audience. Quoting from the article: "Arman Kolozyan is 19 years old. He graduated in Science-Mathematics from GO! Atheneum Emanuel Hiel and has always dreamed of having a fantastic memory. Can anyone become a memory champion? He researched this question and wrote an article on his findings."             
+          <br>You can read the article <a href="https://www.eoswetenschap.eu/psyche-brein/hoe-word-je-een-geheugenkampioen" target="_blank">here</a> (it is in Dutch).
 
   teaching_experience:  
     title: Teaching Experience
@@ -218,23 +239,6 @@ params:
         college: GO! Atheneum Emanuel Hiel
         dates: 2014 - 2020
         distinction: Greatest Distinction (summa cum laude)
-
-  publication:
-    title: Publications
-    icon: fas fa-book
-    list:
-      - title: In-Depth Security Analysis of the Matter Protocol
-        magazine: (in preparation)
-        date: "2025" 
-        description: |1-
-          This paper is based on the work I conducted during my internship at COSIC. 
-          We are currently preparing it for submission to a top-tier security conference (name omitted to comply with the double-blind review policy).
-      - title: "How to Become a Memory Champion?"
-        magazine: "EOS Wetenschap"
-        date: "July 2020" 
-        description: |
-          EOS Wetenschap is a renowned Belgian monthly magazine that covers the latest advancements in science for a broad audience. "Arman Kolozyan is 19 years old. He graduated in Science-Mathematics from GO! Atheneum Emanuel Hiel and has always dreamed of having a fantastic memory. Can anyone become a memory champion? He researched this question and wrote an article on his findings."             
-          <br>You can read the article <a href="https://www.eoswetenschap.eu/psyche-brein/hoe-word-je-een-geheugenkampioen" target="_blank">here</a> (it is in Dutch).
 
   honors:
       title: Honors
