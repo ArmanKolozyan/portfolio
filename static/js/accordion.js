@@ -28,5 +28,23 @@ const expandAccordion = (elem) => {
     }
     
     activePanel.style.maxHeight = activePanel.scrollHeight + "px";
+    
+    // scrolling to the beginning of the selected section
+    const handleTransitionEnd = (event) => {
+      if (event.target === activePanel && event.propertyName === 'max-height') {
+        
+        activePanel.removeEventListener('transitionend', handleTransitionEnd);
+        
+        // getting the accordion element's position, then scrolling
+        const rect = elem.parentElement.getBoundingClientRect();
+        const absoluteTop = window.pageYOffset + rect.top;
+        
+        window.scrollTo({
+          top: absoluteTop - 20, // 20px offset from top
+          behavior: 'smooth'
+        });
+      }
+    };
+    activePanel.addEventListener('transitionend', handleTransitionEnd);
   }
 };
