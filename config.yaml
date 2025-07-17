@@ -20,7 +20,7 @@ params:
 
   profile:
     name: "Arman Kolozyan"
-    tagline: MSc Student Computer Science at Vrije Universiteit Brussel
+    tagline: MSc Student Computer Science
     photo: profile.jpg
   social:
     title: Links
@@ -31,6 +31,9 @@ params:
       - icon: fab fa-github
         url: "https://github.com/ArmanKolozyan"
         title: GitHub
+      - icon: fas fa-graduation-cap
+        url: "https://scholar.google.be/citations?user=ESrxxt0AAAAJ&hl=nl&oi=ao"
+        title: Google Scholar
       - icon: fas fa-envelope
         url: "mailto:arman.kolozyan@vub.be"
         title: Email
