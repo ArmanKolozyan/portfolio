@@ -55,7 +55,7 @@ params:
     title: About Me
     icon: fas fa-user
     description: |
-      I am a Computer Science Master's student from Belgium, studying at the <a href="https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/applied-sciences-and-engineering-computer-science/program/master/master-software-languages-and-software-engineering" target="_blank">Vrije Universiteit Brussel</a>. My research experience lies in security, specifically in vulnerability analysis of network protocols and Zero-Knowledge Proofs (ZKPs). Currently, I am working on my master's thesis in collaboration with <a href="https://www.bell-labs.com/about/locations/antwerp-belgium" target="_blank">Nokia Bell Labs</a>, where I am investigating bugs in ZKP programs. Previously, I completed a research internship at <a href="https://www.esat.kuleuven.be/cosic/" target="_blank">KU Leuven’s COSIC group</a>, where I conducted a security analysis of the Matter standard for smart home devices. My main research goal is to make technologies more secure in order to protect our privacy and data.
+      I am a Computer Science Master's student from Belgium, studying at the <a href="https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/applied-sciences-and-engineering-computer-science/program/master/master-software-languages-and-software-engineering" target="_blank">Vrije Universiteit Brussel</a>. My research experience lies in security, specifically in vulnerability analysis of network protocols and Zero-Knowledge Proofs (ZKPs). Currently, I am working on my master's thesis in collaboration with <a href="https://www.bell-labs.com/about/locations/antwerp-belgium" target="_blank">Nokia Bell Labs</a>, where I am investigating bugs in ZKP programs. Previously, I completed a research internship at <a href="https://www.esat.kuleuven.be/cosic/" target="_blank">KU Leuven's COSIC group</a>, where I conducted a security analysis of the Matter standard for smart home devices. My main research goal is to make technologies more secure in order to protect our privacy and data.
   research_experience:  
     title: Research Experience
     icon: fas fa-search
@@ -65,7 +65,7 @@ params:
         company: Nokia Bell Labs, Antwerpen
         details: |1-
           - Conducting research focused on the security analysis of Zero-Knowledge Proofs (ZKPs), under the supervision of [Prof. Coen De Roover](https://scholar.google.com/citations?user=PdcRlcgAAAAJ) and [Dr. Janwillem Swalens](https://www.bell-labs.com/about/researcher-profiles/janwillemswalens/).
-          - Part of my Master’s thesis.
+          - Part of my Master's thesis.
           - Developing a language-agnostic bug detector for ZKP programs.
 
       - position: Security Research Intern
@@ -75,7 +75,7 @@ params:
           - COSIC is a leading research institution in cryptography and software/hardware security.
           - Conducted an in-depth security analysis of the Matter standard for smart home communication, with
             the aim of identifying potential security weaknesses and vulnerabilities.
-          - Performed formal verification of Matter’s protocols using automated tools, which involved modeling
+          - Performed formal verification of Matter's protocols using automated tools, which involved modeling
             and verifying the protocols.
           - Worked under the guidance of [Dr. Dave Singelée](https://scholar.google.be/citations?user=ekrwosIAAAAJ), [Georgio Nicolas](https://scholar.google.com/citations?user=l7vlhqgAAAAJ), [Sayon Duttagupta](https://dblp.uni-trier.de/pid/313/5856.html) and [Prof. Bart
             Preneel](https://scholar.google.com/citations?user=omio-RsAAAAJ).
@@ -111,7 +111,7 @@ params:
     icon: fas fa-book
     list:
       - title: What's the Matter? An In-Depth Security Analysis of the Matter Protocol
-        authors: Sayon Duttagupta, Arman Kolozyan, Georgio Nicolas, Bart Preneel, and Dave Singelée (co-first-author)
+        authors: Sayon Duttagupta, Arman Kolozyan, Georgio Nicolas, Bart Preneel, and Dave Singelée (<strong>co-first author</strong>)
         url: "https://eprint.iacr.org/2025/1268"
         magazine: Cryptology ePrint Archive
         date: "2025" 
@@ -185,6 +185,19 @@ params:
           - Regularly made small adjustments to the site, created new events, etc.
           - Followed up a ticketing system and resolved tickets from VUB staff and external people.
 
+      - position: API Inventarisation 
+        dates: August 2022
+        company: Argenta, Antwerpen
+        details: |1-
+          - Argenta is a bank and insurance group offering financial services in Belgium, the Netherlands,
+            and Luxembourg.
+          - Spent a month in their IT Shared Service Integration department, assisting with the
+            identification of available APIs.
+          - Created a comprehensive list of technical and functional descriptions of APIs and researched optimal
+            tools for inventory setup and maintenance.
+          - This role brought me a first business experience in IT, improved my skills in conveying information clearly, 
+            enhanced my ability to ask targeted questions to colleagues, and introduced me to agile/scrum methodologies.
+
       - position: Integration of Usolv-it Exercises into the Canvas Learning Platform 
         dates: July 2022
         company: Vrije Universiteit Brussel
@@ -199,22 +212,6 @@ params:
         details: |1-
           - Corrected pre-tests (which test the prior knowledge of first-year university students).
           - Supervised when the students took their tests.
-
-      - position: API Inventarisation 
-        dates: August 2022
-        company: Argenta, Antwerpen
-        details: |1-
-          - Argenta is a Belgian bank and insurance group offering financial services in Belgium, the Netherlands,
-            and Luxembourg.
-          - Spent a month in their IT Shared Service Integration department, assisting with the
-            identification of available APIs.
-          - Created a comprehensive list of technical and functional descriptions of APIs and researched optimal
-            tools for inventory setup and maintenance.
-          - Worked three days per week at the headquarters in Antwerp and two days from home, with weekly
-            follow-ups.
-          - This role brought me a first business experience in IT, improved my skills in conveying information
-            smoothly and correctly, enhanced my ability to ask targeted questions to colleagues, and introduced
-            me to agile/scrum methodologies.
 
       - position: Logistics and Outlet Employee 
         dates: July 2020 - September 2020
@@ -237,14 +234,14 @@ params:
         college: Vrije Universiteit Brussel
         dates: 2023 - 2025
         distinction: currently Greatest Distinction (summa cum laude)
-      - degree: Bachelor’s degree in Computer Science
+      - degree: Bachelor's degree in Computer Science
         college: Vrije Universiteit Brussel
         dates: 2020 - 2023
         distinction: Greatest Distinction (summa cum laude)
       - degree: Science-Mathematics (8 hours of math per week)
         college: GO! Atheneum Emanuel Hiel
         dates: 2014 - 2020
-        distinction: Greatest Distinction (summa cum laude)
+        distinction: Ranked first in class
 
   honors:
       title: Honors
@@ -307,11 +304,6 @@ params:
       title: Volunteering
       icon: fas fa-hands-helping
       list:
-        - position: Volunteer at FOSDEM
-          dates: February 2025
-          organization: FOSDEM
-          details: |1-
-            Assisted visitors at the info desk and sold FOSDEM merchandise.
 
         - position: Student Representative in Study Programme Committee
           dates: October 2022 - Present
@@ -320,7 +312,13 @@ params:
             Serving on the Study Programme Committee as Student Representative, actively contributing to the
             enhancement of academic programs and the overall student experience. Collaborating with faculty,
             administration, and fellow students to advocate for student needs, voice concerns, and promote positive
-            changes within the educational institution.    
+            changes.    
+
+        - position: Volunteer at FOSDEM
+          dates: February 2025
+          organization: FOSDEM
+          details: |1-
+            Assisted visitors at the info desk and sold FOSDEM merchandise.   
 
         - position: Corporate Relations, Lectures & Seminars
           dates: September 2023 - September 2024
@@ -368,7 +366,7 @@ params:
     intro: |
       Below is a collection of my favorite motivational quotes (well... some might be more inspirational than others). I have included links for more information about the authors, though for a few lesser-known ones, I simply referenced where I first encountered them.
     list:
-      - quote: "Setting a goal, giving your all, and coming up short is scary. That’s what makes it great, that’s what makes you give your all to the project. And I think my fear is why I have done so well."
+      - quote: "Setting a goal, giving your all, and coming up short is scary. That's what makes it great, that's what makes you give your all to the project. And I think my fear is why I have done so well."
         source: "https://youtu.be/1QU75E7xGj8?t=40"
 
       - quote: "Fate loves the fearless."
@@ -383,16 +381,16 @@ params:
       - quote: "I saw the angel in the marble and carved until I set him free."
         source: "https://www.goodreads.com/quotes/1161553-i-saw-the-angel-in-the-marble-and-carved-until"
 
-      - quote: "It’s tough to get out of bed to do roadwork at 5 am when you’ve been sleeping in silk pajamas."
+      - quote: "It's tough to get out of bed to do roadwork at 5 am when you've been sleeping in silk pajamas."
         source: "https://quotefancy.com/quote/1220835/Marvin-Hagler-It-s-tough-to-get-out-of-bed-to-do-roadwork-at-5-am-when-you-ve-been"
 
-      - quote: "I’ll be fine once I get it. I’ll be good."
+      - quote: "I'll be fine once I get it. I'll be good."
         source: "https://genius.com/550139"
 
       - quote: "Destiny doesn't do home visits."
         source: "https://www.goodreads.com/quotes/768202-destiny-doesn-t-do-home-visits-you-have-to-go-for"
 
-      - quote: "If it’s meant for me, it won’t miss me."
+      - quote: "If it's meant for me, it won't miss me."
         source: "https://www.instagram.com/dustinpoirier/p/C56Kgonr5_S/"
 
       - quote: "Men are haunted by the vastness of eternity."
@@ -401,10 +399,10 @@ params:
       - quote: "It was time to marry the game and I said, \"Yeah, I do.\""
         source: "https://genius.com/Meek-mill-dreams-and-nightmares-intro-lyrics#:~:text=It%20was%20time%20to%20marry%20the%20game%20and%20I%20said%2C%20%22Yeah%2C%20I%20do%22"
 
-      - quote: "It’s the curse of the standard."
+      - quote: "It's the curse of the standard."
         source: "https://genius.com/13029487"
 
-      - quote: "Now the sky's blackening. I know the mark’s high, butterflies rip apart my stomach."
+      - quote: "Now the sky's blackening. I know the mark's high, butterflies rip apart my stomach."
         source: "https://genius.com/13029859"
 
       - quote: "If you want it, you gotta see it with a clear-eyed view."

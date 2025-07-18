@@ -4,7 +4,7 @@
   {{ else }}
     <h4>{{ .title }}</h4>
   {{ end }}
-  <p class="mb-0">{{ .authors | replaceRE "Arman Kolozyan" "<strong>Arman Kolozyan</strong>" | replaceRE "\\(co-first-author\\)" "<strong>(co-first-author)</strong>" | safeHTML }} &middot; {{ .date }} &middot; {{ .magazine }}</p>
+  <p class="mb-0">{{ .authors | replaceRE "Arman Kolozyan" "<strong>Arman Kolozyan</strong>" | safeHTML }} &middot; {{ .date }} &middot; {{ .magazine }}</p>
   {{ if .description }}
     <p>{{ .description | safeHTML }}</p>
   {{ end }}
