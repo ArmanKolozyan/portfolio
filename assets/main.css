@@ -91,3 +91,10 @@
 .active > .chevron {
   transform: rotate(90deg);
 }
+
+/* responsive profile layout */
+@media (max-width: 480px) {
+  .profile-container {
+    flex-direction: column !important;
+  }
+}
