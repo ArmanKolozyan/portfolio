@@ -127,8 +127,11 @@ params:
         url: "https://www.eoswetenschap.eu/psyche-brein/hoe-word-je-een-geheugenkampioen"
         date: "July 2020" 
         description: |
-          EOS Wetenschap is a renowned Belgian monthly magazine that covers the latest advancements in science for a broad audience. Quoting from the article: "Arman Kolozyan is 19 years old. He graduated in Science-Mathematics from GO! Atheneum Emanuel Hiel and has always dreamed of having a fantastic memory. Can anyone become a memory champion? He researched this question and wrote an article on his findings."             
-          The article is in Dutch.
+          EOS Wetenschap is a renowned Belgian monthly magazine that reports on recent developments in science for a general audience. 
+          While not a peer-reviewed academic journal, it has a professional editorial board and often features articles from professors and researchers. 
+          This article, written in Dutch, explores whether anyone can become a memory champion by applying techniques such as the memory palace. 
+          Quoting from the journal: "Arman Kolozyan is 19 years old. He graduated in Science-Mathematics from GO! Atheneum Emanuel Hiel and has always 
+          dreamed of having a fantastic memory. Can anyone become a memory champion? He researched this question and wrote an article on his findings."
 
   teaching_experience:  
     title: Teaching Experience
