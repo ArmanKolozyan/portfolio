@@ -31,6 +31,9 @@ params:
       - icon: fab fa-github
         url: "https://github.com/ArmanKolozyan"
         title: GitHub
+      - icon: fab fa-x-twitter
+        url: "https://x.com/arman_kolozyan"
+        title: X (Twitter)
       - icon: fas fa-graduation-cap
         url: "https://scholar.google.be/citations?user=ESrxxt0AAAAJ&hl=nl&oi=ao"
         title: Google Scholar
