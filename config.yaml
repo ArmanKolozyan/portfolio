@@ -367,7 +367,7 @@ params:
     title: Favorite Motivational Quotes
     icon: fas fa-quote-left
     intro: |
-      Below is a collection of my favorite motivational quotes (well... some might be more inspirational than others). I have included links for more information about the authors, though for a few lesser-known ones, I simply referenced where I first encountered them.
+      Below is a collection of my favorite motivational quotes (well... some might be more inspirational than others). I have included links for more information about the people behind them, though for a few lesser-known ones, I simply referenced where I first encountered them.
     list:
       - quote: "Setting a goal, giving your all, and coming up short is scary. That's what makes it great, that's what makes you give your all to the project. And I think my fear is why I have done so well."
         source: "https://youtu.be/1QU75E7xGj8?t=40"
