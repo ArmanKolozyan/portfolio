@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="flex flex-col gap-4 py-2">
+  <div class="w-full">
+    <div class="bg-gray-300 dark:bg-darker rounded drop-shadow-md p-4">
+      <h1 class="text-2xl font-bold mb-4 text-center">{{ .Site.Params.favorite_quotes.title }}</h1>
+      <div class="prose dark:prose-invert max-w-none">
+        {{ partial "accordion/favorite_quotes" . }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

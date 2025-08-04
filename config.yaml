@@ -50,7 +50,6 @@ params:
     - item: education
     - item: honors
     - item: volunteering
-    - item: favorite_quotes
   aboutme:
     title: About Me
     icon: fas fa-user
