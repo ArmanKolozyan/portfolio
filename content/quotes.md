@@ -1,5 +1,5 @@
 ---
-title: "Motivational Quotes"
+title: "Motivational Pieces"
 type: "quotes"
 layout: "quotes"
 ---
