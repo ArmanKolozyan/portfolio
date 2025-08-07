@@ -3,19 +3,11 @@ const allAccordion = Array.from(document.querySelectorAll(".accordion"));
 
 const expandAccordion = (elem) => {
   const isActive = elem.parentElement.classList.contains("active");
+  const activePanel = elem.parentElement.nextElementSibling;
   
-  // closing all sections
-  allAccordion.forEach((acc) => {
-    acc.classList.remove("active");
-  });
-  allPanels.forEach((panel) => {
-    panel.style.maxHeight = null;
-  });
-
-  // toggling the clicked section
+  // toggling only the clicked section (no longer closing all others)
   if (!isActive) {
     elem.parentElement.classList.add("active");
-    const activePanel = elem.parentElement.nextElementSibling;
     
     if (
       activePanel.id !== "skill-panel" &&
@@ -46,5 +38,9 @@ const expandAccordion = (elem) => {
       }
     };
     activePanel.addEventListener('transitionend', handleTransitionEnd);
+  } else {
+    // closing the current section if it's already active
+    elem.parentElement.classList.remove("active");
+    activePanel.style.maxHeight = null;
   }
 };
