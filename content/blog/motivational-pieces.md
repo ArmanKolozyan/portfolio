@@ -27,7 +27,7 @@ Below is a collection of my favorite motivational pieces (well... some might be 
 
 - [*"If it's meant for me, it won't miss me."*](https://www.instagram.com/dustinpoirier/p/C56Kgonr5_S/)
 
-- [*"Men are haunted by the vastness of eternity."*](https://www.goodreads.com/quotes/7624973-men-are-haunted-by-the-vastness-of-eternity-and-so)
+- [*"Men are haunted by the vastness of eternity."*](https://youtu.be/7CcnOQJ3D20?t=355)
 
 - [*"It was time to marry the game and I said, Yeah, I do."*](https://genius.com/Meek-mill-dreams-and-nightmares-intro-lyrics#:~:text=It%20was%20time%20to%20marry%20the%20game%20and%20I%20said%2C%20%22Yeah%2C%20I%20do%22)
 
