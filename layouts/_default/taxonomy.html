@@ -6,7 +6,7 @@
       <div class="max-w-none">
         {{ if .Pages }}
           {{ range .Pages.ByDate.Reverse }}
-            <article class="mb-2 p-3 border-b border-gray-300 dark:border-gray-600">
+            <article class="mb-2 p-3 border-b border-gray-600 dark:border-gray-600">
               <h2 class="text-xl font-semibold mb-1">
                 <a href="{{ .Permalink }}" class="hover:underline">{{ .Title }}</a>
               </h2>

@@ -6,6 +6,6 @@
   {{ end }}
   <p class="mb-0">{{ .authors | replaceRE "Arman Kolozyan" "<strong>Arman Kolozyan</strong>" | safeHTML }} &middot; {{ .date }} &middot; {{ .magazine }}</p>
   {{ if .description }}
-    <p>{{ .description | safeHTML }}</p>
+    <p>{{ .description | markdownify }}</p>
   {{ end }}
 {{ end }}
