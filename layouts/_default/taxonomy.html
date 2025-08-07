@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="flex flex-col gap-4 py-2">
+  <div class="w-full">
+    <div class="bg-gray-300 dark:bg-darker rounded drop-shadow-md p-4">
+      <h1 class="text-3xl font-bold mb-6 text-center">{{ .Title }}</h1>
+      <div class="max-w-none">
+        {{ if .Pages }}
+          {{ range .Pages.ByDate.Reverse }}
+            <article class="mb-2 p-3 border-b border-gray-300 dark:border-gray-600">
+              <h2 class="text-xl font-semibold mb-1">
+                <a href="{{ .Permalink }}" class="hover:underline">{{ .Title }}</a>
+              </h2>
+              <div class="text-sm text-gray-600 dark:text-gray-400 mb-2">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+              </div>
+              {{ if .Description }}
+                <p class="text-gray-700 dark:text-gray-300">{{ .Description }}</p>
+              {{ end }}
+            </article>
+          {{ end }}
+        {{ else }}
+          <p class="text-center text-gray-600 dark:text-yellow-300">No pages found in this {{ .Type }}.</p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
