@@ -73,7 +73,7 @@ params:
 
       - position: Summer School Participant
         dates: July 2025
-        company: EPFL-ETH Summer School on Lattice-based Cryptography, Lausanne
+        company: EPFL & ETH Zurich, Switzerland
         details: |1-
           - Participated in the [EPFL-ETH Summer School on Lattice-based Cryptography](https://lattice-school.epfl.ch), held at EPFL.
           - Received lectures from experts including [Vadim Lyubashevsky](https://research.ibm.com/people/vadim-lyubashevsky) and [Jonathan Bootle](https://jbootle.github.io), covering both the theory and applications of lattice-based cryptography.
