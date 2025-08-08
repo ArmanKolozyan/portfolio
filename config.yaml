@@ -63,15 +63,6 @@ params:
     icon: fas fa-search
     list:
 
-      - position: Summer School Participant
-        dates: July 2025
-        company: EPFL-ETH Summer School on Lattice-based Cryptography, Lausanne
-        details: |1-
-          - Participated in the [EPFL-ETH Summer School on Lattice-based Cryptography](https://lattice-school.epfl.ch), held at EPFL.
-          - Received lectures from experts including [Vadim Lyubashevsky](https://research.ibm.com/people/vadim-lyubashevsky) and [Jonathan Bootle](https://jbootle.github.io), covering both the theory and applications of lattice-based cryptography.
-          - Worked on a small research project focused on the Lattice Isomorphism Problem (LIP), where I explored the problem and identified directions for further research.
-          - Registration fee and accommodation were fully covered by the organizers.
-
       - position: Security Research Intern
         dates: September 2024 - Present
         company: Nokia Bell Labs, Antwerpen
@@ -79,6 +70,15 @@ params:
           - Conducting research focused on the security analysis of Zero-Knowledge Proofs (ZKPs), under the supervision of [Prof. Coen De Roover](https://scholar.google.com/citations?user=PdcRlcgAAAAJ) and [Dr. Janwillem Swalens](https://www.bell-labs.com/about/researcher-profiles/janwillemswalens/).
           - Part of my Master's thesis.
           - Developing a language-agnostic bug detector for ZKP programs.
+
+      - position: Summer School Participant
+        dates: July 2025
+        company: EPFL-ETH Summer School on Lattice-based Cryptography, Lausanne
+        details: |1-
+          - Participated in the [EPFL-ETH Summer School on Lattice-based Cryptography](https://lattice-school.epfl.ch), held at EPFL.
+          - Received lectures from experts including [Vadim Lyubashevsky](https://research.ibm.com/people/vadim-lyubashevsky) and [Jonathan Bootle](https://jbootle.github.io), covering both the theory and applications of lattice-based cryptography.
+          - Worked on a small research project focused on the Lattice Isomorphism Problem (LIP), where I explored the problem and identified directions for further research.
+          - Registration fee and accommodation were fully covered by the organizers.     
 
       - position: Security Research Intern
         dates: July 2024 - September 2024
