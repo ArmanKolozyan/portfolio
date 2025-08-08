@@ -130,7 +130,7 @@ params:
         date: "July 2020" 
         description: |
           EOS Wetenschap is a renowned Belgian monthly magazine that reports on recent developments in science for a general audience. 
-          While not a peer-reviewed academic journal, it has a professional editorial board and often features articles from professors and researchers. 
+          While not a peer-reviewed academic journal, it has a professional editorial board and often features articles from professors. 
           In this article (written in Dutch), I explored whether anyone can develop a great memory by using techniques such as the memory palace. 
           As part of the research, I interviewed world memory champions, including [Nelson Dellis](https://www.youtube.com/c/NelsonDellis).
           Quoting from the journal: "Arman Kolozyan is 19 years old. He graduated in Science-Mathematics from GO! Atheneum Emanuel Hiel and has always 
@@ -177,8 +177,8 @@ params:
           - Organized live question sessions.
           - Answered students' questions on discussion fora.
           - Corrected mathematics tests.
-          - Updated the solutions of exercises on the website of the mathematics book 'Wiskundige
-            basisvaardigheden' (basiswiskunde.be).    
+          - Updated the solutions of exercises on the website of the mathematics book [Wiskundige
+            basisvaardigheden](https://www.basiswiskunde.be).    
 
   work_experience:  
     title: Work Experience

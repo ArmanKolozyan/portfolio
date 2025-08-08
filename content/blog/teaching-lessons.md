@@ -2,6 +2,7 @@
 title: "What Teaching as a Student Has Taught Me"
 date: 2025-08-07
 draft: false
+comingSoon: true
 description: "Reflections on my experience as a student lecturer."
 ---
 

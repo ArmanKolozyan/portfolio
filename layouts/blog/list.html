@@ -10,8 +10,14 @@
               <h2 class="text-xl font-semibold mb-1">
                 <a href="{{ .Permalink }}" class="hover:underline">{{ .Title }}</a>
               </h2>
-              <div class="text-sm text-gray-600 dark:text-gray-400 mb-2">
-                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+              <div class="text-sm mb-2 flex items-center">
+                {{ if .Params.comingSoon }}
+                  <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-gradient-to-r from-blue-500 to-purple-600 dark:from-yellow-500 dark:to-orange-500 text-white dark:text-gray-900 shadow-sm">
+                    🔥 Coming Soon
+                  </span>
+                {{ else }}
+                  <time datetime="{{ .Date.Format "2006-01-02" }}" class="text-gray-600 dark:text-gray-400">{{ .Date.Format "January 2, 2006" }}</time>
+                {{ end }}
               </div>
               {{ if .Description }}
                 <p class="text-gray-700 dark:text-gray-300">{{ .Description }}</p>

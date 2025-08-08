@@ -5,8 +5,14 @@
       <article class="prose dark:prose-invert max-w-none">
         <header class="mb-6">
           <h1 class="text-3xl font-bold mb-2">{{ .Title }}</h1>
-          <div class="text-sm text-gray-600 dark:text-gray-400">
-            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+          <div class="text-sm mb-4 flex items-center">
+            {{ if .Params.comingSoon }}
+              <span class="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium bg-gradient-to-r from-blue-500 to-purple-600 dark:from-yellow-500 dark:to-orange-500 text-white dark:text-gray-900 shadow-md">
+                🔥 Coming Soon
+              </span>
+            {{ else }}
+              <time datetime="{{ .Date.Format "2006-01-02" }}" class="text-gray-600 dark:text-gray-400">{{ .Date.Format "January 2, 2006" }}</time>
+            {{ end }}
           </div>
         </header>
         
