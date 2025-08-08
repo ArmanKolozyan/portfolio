@@ -62,6 +62,16 @@ params:
     title: Research Experience
     icon: fas fa-search
     list:
+
+      - position: Summer School Participant
+        dates: July 2025
+        company: EPFL-ETH Summer School on Lattice-based Cryptography, Lausanne
+        details: |1-
+          - Participated in the [EPFL-ETH Summer School on Lattice-based Cryptography](https://lattice-school.epfl.ch), held at EPFL.
+          - Received lectures from experts including [Vadim Lyubashevsky](https://research.ibm.com/people/vadim-lyubashevsky) and [Jonathan Bootle](https://jbootle.github.io), covering both the theory and applications of lattice-based cryptography.
+          - Worked on a small research project focused on the Lattice Isomorphism Problem (LIP), where I explored the problem and identified directions for further research.
+          - Registration fee and accommodation were fully covered by the organizers.
+
       - position: Security Research Intern
         dates: September 2024 - Present
         company: Nokia Bell Labs, Antwerpen
@@ -88,7 +98,7 @@ params:
         dates: September 2024
         company: Technische Universität Darmstadt, Germany
         details: |1-
-          - Attended the ACM Europe Summer School on Distributed and Replicated Environments (DARE) 2024 in Germany.
+          - Attended the ACM Europe Summer School on Distributed and Replicated Environments (DARE) 2024.
           - The summer school was focused on advanced topics in distributed systems.
           - It offered me both theoretical and practical knowledge, with lectures focusing on CRDTs, Byzantine fault-tolerance,
             distributed systems, verification techniques for consistency, and programming/debugging/testing distributed applications.
