@@ -131,7 +131,7 @@ params:
           This paper is based on the work I conducted, together with my supervisors, during my internship at COSIC. 
           It presents the first formal and practical security analysis of the Matter protocol, an IoT standard adopted by Apple, Google, Amazon, and others. 
           Our work identifies design and implementation vulnerabilities in its key-establishment protocols (PASE and CASE), and proposes improvements to strengthen the protocol. 
-          We responsibly disclosed these issues, some of which led to patches in the official codebase. 
+          We responsibly disclosed [these issues](https://github.com/matter-js/matter.js/issues/1894), some of which led to patches in the official codebase. 
           
       - title: "How to Become a Memory Champion?"
         authors: Arman Kolozyan
